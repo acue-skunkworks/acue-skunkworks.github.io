@@ -6,6 +6,11 @@ body {
   line-height: 1.15;
 }
 
+body a {
+  color: #000;
+}
+
+
 hr { /*dummy content*/
   height: 6px;
   border: none;
@@ -30,7 +35,7 @@ hr.image { /*dummy content*/
 
 .archive {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   grid-gap: 1em;
 }
 
@@ -44,3 +49,6 @@ hr.image { /*dummy content*/
     0 20px 20px rgba(0, 0, 0, 0.05);
 }
 
+.article a {
+  color: #000 !important;
+}
