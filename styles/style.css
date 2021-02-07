@@ -4,17 +4,13 @@ body {
   font: 7px sans-serif;
 }
 
-#chart {  
-  width:50%;
-}
-
 h2 {
   font-size: 4em;
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 1024px) {
   h2 {
-    font-size: 2em;
+    font-size: 2.5em;
   }
 }
 
