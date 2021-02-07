@@ -16,11 +16,14 @@ body a {
     width: 1em;
     text-align: center;
     background-color:#000;
+    -webkit-box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+-moz-box-shadow:    7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+box-shadow:         7px 7px 5px 0px rgba(50, 50, 50, 0.75);
 }
 
 .circle p {
-  /*margin-top: 0.10em;*/
-    font-size: 1em;
+  margin-top: 0.10em;
+    font-size: 0.7em;
     font-weight: bold;
     font-family: sans-serif;
     color: white;
