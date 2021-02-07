@@ -1,18 +1,19 @@
-<a href="https://acue.io/skunkworks/">
-    <img src="assets/Skunkworks_wbck.svg" alt="Acue Skunkworks logo" title="Acue Skunkworks" align="right" height="60" />
-</a>
 
-Acue Skunkworks
-===============
+# Acue Skunkworks
 
-[Acue Skunkworks](https://acue.io/skunkworks/). Our secret autonomous collective of world leading engineers developing advanced solutions.
+<img src="assets/Skunkworks_wbck.svg" alt="Acue Skunkworks logo" title="Acue Skunkworks" align="right" width="260" />
 
-For more information, [get in contact](https://acue.io/get-in-touch/).
+Our secret autonomous collective of world leading engineers developing advanced solutions.
 
-[![Aimeos TYPO3 demo](https://aimeos.org/fileadmin/user_upload/typo3-demo.jpg)](http://typo3.demo.aimeos.org/)
+[Acue Skunkworks](https://acue.io/skunkworks/). 
 
 ## Our public secrets
 
-###Agility Maturity Radar
+* **Agility radar** measure your Agility at a organisational, business unit or team / squad level.
 
-[Web site](https://acue-skunkworks.github.io/agility-radar)
+
+<p align="center">
+  <img src="./img/example.png" alt="Size Limit CLI" width="738">
+</p>
+
+For more information, [get in contact](https://acue.io/get-in-touch/).
