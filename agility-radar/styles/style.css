@@ -12,6 +12,11 @@ h2 {
   h2 {
     font-size: 2.5em;
   }
+  div#conversational-form {
+    clear: both;
+    float:left;
+    width:33%;
+  }
 }
 
 .axis path,
