@@ -11,15 +11,11 @@ body a {
   color: #fff;
 }
 
-@media only screen and (max-width: 1024px) {
-  .article img {
-    font-size: 340px;
-  }
-  div#conversational-form {
-    clear: both;
-    float:left;
-    width:33%;
-  }
+.logo {
+  width:260px;
+  margin-bottom:-60px;
+  margin-top:-40px;
+  margin-left:-40px;
 }
 
 .circle {
