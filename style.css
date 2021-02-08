@@ -10,6 +10,17 @@ body a {
   color: #fff;
 }
 
+@media only screen and (max-width: 1024px) {
+  .article img {
+    font-size: 340px;
+  }
+  div#conversational-form {
+    clear: both;
+    float:left;
+    width:33%;
+  }
+}
+
 .circle {
     border-radius: 100%;
     height: 1em;
@@ -44,7 +55,7 @@ hr.image { /*dummy content*/
 .page {
   padding: 2em;
   background-color: #000;
-  max-width: 570px;
+  max-width: 760px;
   color:#fff;
   margin:0 auto;
 }
@@ -65,7 +76,7 @@ hr.image { /*dummy content*/
     0 20px 20px rgba(0, 0, 0, 0.05);
 }
 
-.article img {width: 245px !important;height:245px !important;}
+.article img {width: 100% !important;}
 
 .article a {
   color: #000 !important;
