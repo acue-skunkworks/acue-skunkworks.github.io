@@ -4,6 +4,7 @@ body {
   padding-top: 2em;
   font-family: sans-serif;
   line-height: 1.15;
+  font-size: 1.25em;
 }
 
 body a {
@@ -55,7 +56,7 @@ hr.image { /*dummy content*/
 .page {
   padding: 2em;
   background-color: #000;
-  max-width: 760px;
+  max-width: 870px;
   color:#fff;
   margin:0 auto;
 }
